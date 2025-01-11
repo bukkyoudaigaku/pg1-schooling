@@ -38,3 +38,5 @@ def qa(data)
     num: 1
   }
   qa(qa3)
+
+#qa1, qa2, qa3は、ハッシュ
