@@ -6,5 +6,6 @@ while num_output < 10 do
   # 1秒待機する
   sleep 1
   
+  # num_output を 1 増加させる
   num_output = num_output + 1
 end
