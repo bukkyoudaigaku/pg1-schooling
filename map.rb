@@ -48,3 +48,10 @@ result = arr.map do |value|
   value.upcase
 end
 puts result.inspect
+
+
+# (a1) mainではないメソッドeach
+result = ["100", "200", "300"].each do |value|
+    value.to_i
+end
+puts result.inspect
